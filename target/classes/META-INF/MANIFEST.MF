@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mark I5-8600
+Build-Jdk: 13.0.1
+Implementation-Title: SpringJPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mark
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringJPA
+Created-By: Maven Integration for Eclipse
+
